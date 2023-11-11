@@ -1,4 +1,4 @@
-https://github.com/rajeev3828gupta/raj/tree/banner.png
+![logo](https://github.com/rajeev3828gupta/raj/tree/banner.png)
 <h1 align="center">Hi 👋, I'm Rajeev Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
